@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.3859375" />
+        <entry key="app/src/main/res/drawable/hr_color_horizontal.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/tv_rounded.xml" value="0.192" />
+        <entry key="app/src/main/res/layout/activity_add_device.xml" value="0.332825442583133" />
+        <entry key="app/src/main/res/layout/activity_add_manufacturer.xml" value="0.25277777777777777" />
+        <entry key="app/src/main/res/layout/activity_devices.xml" value="0.25277777777777777" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.297869873046875" />
+        <entry key="app/src/main/res/layout/activity_manufacturer.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/activity_phone.xml" value="0.3391959798994975" />
+        <entry key="app/src/main/res/layout/manufacturer_device_layout.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/layout/manufacturer_layout.xml" value="0.37395833333333334" />
+        <entry key="app/src/main/res/menu/devices_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/manufacturer_menu.xml" value="0.3734375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

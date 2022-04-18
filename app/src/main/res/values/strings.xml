@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PhoneApp</string>
+    <string name="add_manufacturer">Add Manufacturer</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="operating_system">Operating System</string>
+    <string name="chipset">Chipset</string>
+    <string name="specs">Specs</string>
+    <string name="model">Model</string>
+    <string name="display">Display</string>
+    <string name="battery">Battery</string>
+    <string name="add_device">Add Device</string>
+    <string name="year">Year</string>
+    <string name="ram">RAM</string>
+    <string name="storage">Storage</string>
+    <string name="weight">Weight</string>
+    <string name="display_type">Display Type</string>
+    <string name="display_size">Display Size</string>
+    <string name="price">Price</string>
+    <string name="display_resolution">Display Resolution</string>
+    <string name="add">Add</string>
+</resources>
